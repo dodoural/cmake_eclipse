@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/class/test.hpp
+iostream
+-
+
+../src/main/main.hpp
+iostream
+-
+
+/home/dodo/Desktop/dogus/src/class/test.cpp
+test.hpp
+/home/dodo/Desktop/dogus/src/class/test.hpp
+
+/home/dodo/Desktop/dogus/src/class/test.hpp
+iostream
+-
+
+/home/dodo/Desktop/dogus/src/main/main.cpp
+main.hpp
+-
+test.hpp
+-
+

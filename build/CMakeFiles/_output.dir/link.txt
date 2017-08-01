@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/_output.dir/src/class/test.cpp.o CMakeFiles/_output.dir/src/main/main.cpp.o  -o _output -rdynamic src/class/libclass.a 
