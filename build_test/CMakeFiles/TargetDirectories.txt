@@ -1,0 +1,6 @@
+/home/dodo/Desktop/dogus/build_test/CMakeFiles/rebuild_cache.dir
+/home/dodo/Desktop/dogus/build_test/CMakeFiles/edit_cache.dir
+/home/dodo/Desktop/dogus/build_test/CMakeFiles/_output.dir
+/home/dodo/Desktop/dogus/build_test/src/class/CMakeFiles/rebuild_cache.dir
+/home/dodo/Desktop/dogus/build_test/src/class/CMakeFiles/edit_cache.dir
+/home/dodo/Desktop/dogus/build_test/src/class/CMakeFiles/class.dir
